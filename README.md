@@ -9,3 +9,7 @@ Ever seen a video and went "damn i wish i could post that on my channel without 
 5. put video link in when prompted
 6. click on the link it sends and authorise your google account
 7. boom
+
+# contributers
+
+So far im the only contributer but feel free to help out :)
