@@ -1,5 +1,5 @@
 # video-reposter
-Ever seen a video and went "damn i wish i could post that on my channel without all the hastle of downloading it then uploading it"? well this is what u wanna use, using s wee bit of api and python i have made (almost made) a video reposter, it is simple to setup and even simpler to use!
+Ever seen a video and went "damn i wish i could post that on my channel without all the hastle of downloading it then uploading it"? well this is what u wanna use, using s wee bit of api and python i have made a video reposter, it is simple to setup and even simpler to use!
 
 # how do i use it?
 1. clone the respitory and type cd video-reposter
