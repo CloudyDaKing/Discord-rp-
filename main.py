@@ -13,13 +13,13 @@ video_data = {
             "title": "fish",
             "description": "fish",
             "keywords":"meme,fish",
-            "privacyStatus":"public"
+            "privacyStatus":"public",
+            "thumbnail":"video.mp4"
     }
 yt.streams.get_highest_resolution().download()
-
+os.rename(yt.title + ".mp4", "video.mp4")
 print(video_data["title"])
-print("Posting Video in 10 secconds...")
-time.sleep(10)
 upload_video(video_data)
 
     # Sleep until ready to
+os.remove ("video.mp4")
